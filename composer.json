@@ -1,0 +1,14 @@
+{
+    "name": "kristinadamayanti/stok-app",
+    "type": "project",
+    "authors" : [
+        {
+            "name": "cici",
+            "email": "kristinadamayanti18@gmail.com",
+            "role": "programmer"
+        }
+    ],
+    "require":{
+        "phpunit/phpunit":"^6.5"
+    }
+}
